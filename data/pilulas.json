@@ -1,0 +1,1844 @@
+{
+  "record": {
+    "Boreal": {
+      "categoria_thumbnail": "https://i.ibb.co/mrqgz5vN/Renault-Boreal.png",
+      "videos": [
+        {
+          "Titulo": {
+            "pt": "Ajuste Lombar",
+            "en": "Lumbar Adjustment",
+            "es": "Ajuste Lumbar",
+            "fr": "Réglage Lombaire"
+          },
+          "Subtitulo": {
+            "pt": "Como ajustar a lombar para seu conforto",
+            "en": "How to adjust the lumbar support for your comfort",
+            "es": "Cómo ajustar el soporte lumbar para su comodidad",
+            "fr": "Comment régler le soutien lombaire pour votre confort"
+          },
+          "Tags": {
+            "pt": [
+              "assento",
+              "lombar",
+              "bancos"
+            ],
+            "en": [
+              "seat",
+              "lumbar",
+              "benches"
+            ],
+            "es": [
+              "asiento",
+              "lumbar",
+              "bancos"
+            ],
+            "fr": [
+              "siège",
+              "lombaire",
+              "banquettes"
+            ]
+          },
+          "URL": {
+            "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%201.mp4",
+            "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%201.mp4",
+            "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%201.mp4",
+            "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%201.mp4"
+          },
+          "thumbnail": "https://i.ibb.co/mrqgz5vN/Renault-Boreal.png",
+          "data_atualizacao": "31/07/2025",
+          "id": "1ab77f2d-1f0a-4179-b5e4-4ee1aa369382",
+          "categoria": {
+            "pt": "Conforto & Bancos",
+            "en": "Comfort & Seats",
+            "es": "Comodidad y Asientos",
+            "fr": "Confort & Sièges"
+          }
+        },
+        {
+          "Titulo": {
+            "pt": "Ativando a massagem",
+            "en": "Activating the massage",
+            "es": "Activando el masaje",
+            "fr": "Activation du massage"
+          },
+          "Subtitulo": {
+            "pt": "Como utilizar a função massagem",
+            "en": "How to use the massage function",
+            "es": "Cómo utilizar la función de masaje",
+            "fr": "Comment utiliser la fonction massage"
+          },
+          "Tags": {
+            "pt": [
+              "assento",
+              "massagem",
+              "conforto"
+            ],
+            "en": [
+              "seat",
+              "massage",
+              "comfort"
+            ],
+            "es": [
+              "asiento",
+              "masaje",
+              "comodidad"
+            ],
+            "fr": [
+              "siège",
+              "massage",
+              "confort"
+            ]
+          },
+          "URL": {
+            "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%202.mp4",
+            "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%202.mp4",
+            "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%202.mp4",
+            "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%202.mp4"
+          },
+          "thumbnail": "https://i.ibb.co/mrqgz5vN/Renault-Boreal.png",
+          "data_atualizacao": "30/07/2025",
+          "id": "c768b2a2-5576-4448-9e97-3a1e97fa4e58",
+          "categoria": {
+            "pt": "Conforto & Bancos",
+            "en": "Comfort & Seats",
+            "es": "Comodidad y Asientos",
+            "fr": "Confort & Sièges"
+          }
+        },
+        {
+          "Titulo": {
+            "pt": "Modo conforto",
+            "en": "Comfort mode",
+            "es": "Modo confort",
+            "fr": "Mode confort"
+          },
+          "Subtitulo": {
+            "pt": "Como ativar o modo conforto ao entrar ou sair do veículo",
+            "en": "How to activate comfort mode when entering or leaving the vehicle",
+            "es": "Cómo activar el modo confort al entrar o salir del vehículo",
+            "fr": "Comment activer le mode confort en entrant ou en sortant du véhicule"
+          },
+          "Tags": {
+            "pt": [
+              "assento",
+              "ajustes",
+              "conforto"
+            ],
+            "en": [
+              "seat",
+              "settings",
+              "comfort"
+            ],
+            "es": [
+              "asiento",
+              "ajustes",
+              "comodidad"
+            ],
+            "fr": [
+              "siège",
+              "réglages",
+              "confort"
+            ]
+          },
+          "URL": {
+            "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%203.mp4",
+            "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%203.mp4",
+            "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%203.mp4",
+            "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%203.mp4"
+          },
+          "thumbnail": "https://i.ibb.co/mrqgz5vN/Renault-Boreal.png",
+          "data_atualizacao": "30/06/2025",
+          "id": "c84b2ca8-7f60-4e15-bcfc-42ad5ef6eb48",
+          "categoria": {
+            "pt": "Conforto & Bancos",
+            "en": "Comfort & Seats",
+            "es": "Comodidad y Asientos",
+            "fr": "Confort & Sièges"
+          }
+        },
+        {
+          "Titulo": {
+            "pt": "testeasdasd",
+            "en": "",
+            "es": "",
+            "fr": ""
+          },
+          "Subtitulo": {
+            "pt": "testeasdsa",
+            "en": "",
+            "es": "",
+            "fr": ""
+          },
+          "Tags": {
+            "pt": [
+              "teste"
+            ],
+            "en": [],
+            "es": [],
+            "fr": []
+          },
+          "URL": {
+            "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%203.mp4",
+            "en": "",
+            "es": "",
+            "fr": ""
+          },
+          "thumbnail": "https://i.ibb.co/mrqgz5vN/Renault-Boreal.png",
+          "data_atualizacao": "09/09/2025",
+          "id": "567e708e-7b03-4559-95f5-76b8c0726820",
+          "categoria": {
+            "pt": "teste",
+            "en": "",
+            "es": "",
+            "fr": ""
+          }
+        }
+      ]
+    },
+    "Kardian": {
+      "categoria_thumbnail": "https://i.ibb.co/KpdXnbb0/Renault-Kardian.webp",
+      "videos": [
+        {
+          "Titulo": {
+            "pt": "Tudo Sobre o Freio de Estacionamento Eletrônico",
+            "en": "All About the Electronic Parking Brake",
+            "es": "Todo sobre el freno de estacionamiento electrónico",
+            "fr": "Tout sur le frein de stationnement électronique"
+          },
+          "Subtitulo": {
+            "pt": "Descubra como funciona a ativação automática, o acionamento manual e os avisos de segurança do inovador sistema de freio do seu veículo.",
+            "en": "Discover how the innovative parking brake system works: automatic activation, manual operation, and safety alerts in your vehicle.",
+            "es": "Descubra cómo funciona: activación automática, uso manual y alertas de seguridad del sistema innovador de freno en tu vehículo.",
+            "fr": "Découvrez le fonctionnement du système innovant de frein: activation automatique, action manuelle et alertes de sécurité dans votre véhicule."
+          },
+          "Tags": {
+            "pt": [
+              "Freio de Estacionamento",
+              "Freio de Mão Eletrônico",
+              "Segurança",
+              "Câmbio Automático",
+              "Alertas de Segurança"
+            ],
+            "en": [
+              "Electronic Parking Brake",
+              "Parking Brake",
+              "Safety",
+              "Automatic Transmission",
+              "Safety Alerts"
+            ],
+            "es": [
+              "Freno de estacionamiento",
+              "Freno de mano electrónico",
+              "Seguridad",
+              "Transmisión automática",
+              "Alertas de seguridad"
+            ],
+            "fr": [
+              "Frein de stationnement électronique",
+              "Frein à main électronique",
+              "Sécurité",
+              "Boîte automatique",
+              "Alertes de sécurité"
+            ]
+          },
+          "URL": {
+            "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Freio%20de%20estacionamento%20eletr%C3%B4nico_720p.mp4",
+            "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Freio%20de%20estacionamento%20eletr%C3%B4nico_720p.mp4",
+            "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Freio%20de%20estacionamento%20eletr%C3%B4nico_720p.mp4",
+            "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Freio%20de%20estacionamento%20eletr%C3%B4nico_720p.mp4"
+          },
+          "thumbnail": "https://i.ibb.co/KpdXnbb0/Renault-Kardian.webp",
+          "data_atualizacao": "20/08/2025",
+          "id": "56e88972-b77a-43ec-8eb1-f18aa38a8cdb",
+          "categoria": {
+            "pt": "Segurança & ADAS",
+            "en": "Safety & ADAS",
+            "es": "Seguridad y ADAS",
+            "fr": "Sécurité & ADAS"
+          }
+        },
+        {
+          "Titulo": {
+            "pt": "Carregamento de Smartphone por Indução",
+            "en": "Smartphone Wireless Charging",
+            "es": "Carga de Smartphone por Inducción",
+            "fr": "Charge sans fil de smartphone"
+          },
+          "Subtitulo": {
+            "pt": "Aprenda o passo a passo para carregar seu smartphone sem fios, entender os ícones e evitar interrupções por superaquecimento.",
+            "en": "Learn step by step how to wirelessly charge your smartphone, understand the indicators and avoid interruptions due to overheating.",
+            "es": "Aprende paso a paso cómo cargar tu smartphone sin cables, interpreta los íconos y evita interrupciones por sobrecalentamiento",
+            "fr": "Apprenez étape par étape à charger votre smartphone sans fil, à comprendre les icônes et à éviter les interruptions dues à la surchauffe."
+          },
+          "Tags": {
+            "pt": [
+              "Carregador por Indução",
+              "Carregador Sem Fio",
+              "Tecnologia",
+              "Smartphone",
+              "Carregamento Wireless"
+            ],
+            "en": [
+              "Wireless Charger",
+              "Induction Charger",
+              "Technology",
+              "Smartphone",
+              "Wireless Charging"
+            ],
+            "es": [
+              "Cargador por inducción",
+              "Cargador inalámbrico",
+              "Tecnología",
+              "Smartphone",
+              "Carga inalámbrica"
+            ],
+            "fr": [
+              "Chargeur sans fil",
+              "Technologie",
+              "Smartphone",
+              "Charge sans fil"
+            ]
+          },
+          "URL": {
+            "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Carregador%20por%20Indu%C3%A7%C3%A3o_1080p.mp4",
+            "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Carregador%20por%20Indu%C3%A7%C3%A3o_1080p.mp4",
+            "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Carregador%20por%20Indu%C3%A7%C3%A3o_1080p.mp4",
+            "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Carregador%20por%20Indu%C3%A7%C3%A3o_1080p.mp4"
+          },
+          "thumbnail": "https://i.ibb.co/KpdXnbb0/Renault-Kardian.webp",
+          "data_atualizacao": "20/08/2025",
+          "id": "98f04a39-210a-4ef4-b0ae-e3872e2948a4",
+          "categoria": {
+            "pt": "Conveniência",
+            "en": "Convenience",
+            "es": "Comodidad",
+            "fr": "Commodité"
+          }
+        },
+        {
+          "Titulo": {
+            "pt": "Função de Partida Remota",
+            "en": "Remote Start Function",
+            "es": "Función de Encendido Remoto",
+            "fr": "Fonction de démarrage à distance"
+          },
+          "Subtitulo": {
+            "pt": "Aprenda a ligar o motor à distância para climatizar o carro antes de entrar, usando apenas a chave do seu veículo.",
+            "en": "Learn how to start the engine remotely to climatize your vehicle before entering, using only your vehicle’s key.",
+            "es": "Aprende a encender el motor a distancia para climatizar el coche antes de entrar, utilizando únicamente la llave de tu vehículo",
+            "fr": "Apprenez à démarrer le moteur à distance pour climatiser la voiture avant d'y entrer, en utilisant uniquement la clé de votre véhicule."
+          },
+          "Tags": {
+            "pt": [
+              "Partida Remota",
+              "Chave",
+              "Climatização",
+              "Ar-Condicionado",
+              "Conforto",
+              "Partida à Distância"
+            ],
+            "en": [
+              "Remote Start",
+              "Key",
+              "Climate",
+              "Air Conditioning",
+              "Comfort",
+              "Remote Engine Start"
+            ],
+            "es": [
+              "Encendido remoto",
+              "Llave",
+              "Climatización",
+              "Aire acondicionado",
+              "Comodidad",
+              "Encendido a distancia"
+            ],
+            "fr": [
+              "Démarrage à distance",
+              "Clé",
+              "Climatisation",
+              "Air conditionné",
+              "Confort",
+              "Démarrage à distance"
+            ]
+          },
+          "URL": {
+            "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Partida%20do%20motor%20%C3%A0%20dist%C3%A2ncia_720p.mp4",
+            "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Partida%20do%20motor%20%C3%A0%20dist%C3%A2ncia_720p.mp4",
+            "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Partida%20do%20motor%20%C3%A0%20dist%C3%A2ncia_720p.mp4",
+            "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Partida%20do%20motor%20%C3%A0%20dist%C3%A2ncia_720p.mp4"
+          },
+          "thumbnail": "https://i.ibb.co/KpdXnbb0/Renault-Kardian.webp",
+          "data_atualizacao": "20/08/2025",
+          "id": "4b603d4f-b750-4e7d-b5c3-42e4cc7c09d4",
+          "categoria": {
+            "pt": "Conveniência",
+            "en": "Convenience",
+            "es": "Comodidad",
+            "fr": "Commodité"
+          }
+        },
+        {
+          "Titulo": {
+            "pt": "Versatilidade com as Barras de Teto Modulares",
+            "en": "Versatility with Modular Roof Bars",
+            "es": "Versatilidad con las barras de techo modulares",
+            "fr": "Polyvalence avec les barres de toit modulaires"
+          },
+          "Subtitulo": {
+            "pt": "Descubra como transformar as barras de teto para usar como rack transversal, garantindo a correta instalação e segurança para suas viagens.",
+            "en": "Discover how to use the roof bars as a cross rack, ensuring proper installation and safety for your trips.",
+            "es": "Descubre cómo transformar las barras para usarlas como portaequipajes transversal, asegurando instalación y seguridad.",
+            "fr": "Découvrez comment transformer les barres de toit pour une utilisation en porte-bagages transversal, installation et sécurité assurées."
+          },
+          "Tags": {
+            "pt": [
+              "Barras Modulares",
+              "Rack de Teto",
+              "Carga",
+              "Bagagem",
+              "Barras de Teto",
+              "Bagageiro"
+            ],
+            "en": [
+              "Modular Bars",
+              "Roof Rack",
+              "Cargo",
+              "Luggage",
+              "Roof Bars",
+              "Luggage Rack"
+            ],
+            "es": [
+              "Barras modulares",
+              "Portaequipaje",
+              "Carga",
+              "Equipaje",
+              "Barras de techo",
+              "Portaequipaje superior"
+            ],
+            "fr": [
+              "Barres modulaires",
+              "Porte-bagages",
+              "Charge",
+              "Bagages",
+              "Barres de toit",
+              "Porte-bagages de toit"
+            ]
+          },
+          "URL": {
+            "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Barras%20de%20teto_720p.mp4",
+            "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Barras%20de%20teto_720p.mp4",
+            "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Barras%20de%20teto_720p.mp4",
+            "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Barras%20de%20teto_720p.mp4"
+          },
+          "thumbnail": "https://i.ibb.co/KpdXnbb0/Renault-Kardian.webp",
+          "data_atualizacao": "20/08/2025",
+          "id": "fb66c86d-c7d4-42a5-a17e-fed5ca1a15a6",
+          "categoria": {
+            "pt": "Bagageiro & Transporte",
+            "en": "Luggage Rack & Transport",
+            "es": "Portaequipaje y Transporte",
+            "fr": "Porte-bagages & Transport"
+          }
+        },
+        {
+          "Titulo": {
+            "pt": "Explore a Tecnologia Multi-Sense",
+            "en": "Discover Multi-Sense Technology",
+            "es": "Explora la tecnología Multi-Sense",
+            "fr": "Découvrez la technologie Multi-Sense"
+          },
+          "Subtitulo": {
+            "pt": "Personalize sua experiência de condução ajustando os modos de direção e a iluminação ambiente do seu carro.",
+            "en": "Customize your driving experience by adjusting driving modes and ambient lighting in your car.",
+            "es": "Personaliza tu experiencia de conducción ajustando los modos de manejo y la iluminación ambiental de tu vehículo.",
+            "fr": "Personnalisez votre expérience de conduite en ajustant les modes et l’éclairage d’ambiance de votre voiture."
+          },
+          "Tags": {
+            "pt": [
+              "Multi-Sense",
+              "Modos de Direção",
+              "Iluminação Ambiente",
+              "Personalização",
+              "Multimídia",
+              "Customização",
+              "Esportividade",
+              "Modos de Condução"
+            ],
+            "en": [
+              "Multi-Sense",
+              "Driving Modes",
+              "Ambient Lighting",
+              "Personalization",
+              "Multimedia",
+              "Customization",
+              "Sportiness",
+              "Driving Modes"
+            ],
+            "es": [
+              "Multi-Sense",
+              "Modos de conducción",
+              "Iluminación ambiental",
+              "Personalización",
+              "Multimedia",
+              "Customización",
+              "Deportividad",
+              "Modos de manejo"
+            ],
+            "fr": [
+              "Multi-Sense",
+              "Modes de conduite",
+              "Éclairage d’ambiance",
+              "Personnalisation",
+              "Multimédia",
+              "Customisation",
+              "Sportivité",
+              "Modes de conduite"
+            ]
+          },
+          "URL": {
+            "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Multisense_720p.mp4",
+            "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Multisense_720p.mp4",
+            "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Multisense_720p.mp4",
+            "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Multisense_720p.mp4"
+          },
+          "thumbnail": "https://i.ibb.co/KpdXnbb0/Renault-Kardian.webp",
+          "data_atualizacao": "20/08/2025",
+          "id": "e1f313c1-7e3d-4345-a941-91fbf38cf1ad",
+          "categoria": {
+            "pt": "Tecnologia & Personalização",
+            "en": "Technology & Customization",
+            "es": "Tecnología y Personalización",
+            "fr": "Technologie & Personnalisation"
+          }
+        },
+        {
+          "Titulo": {
+            "pt": "Piloto Automático Adaptativo (ACC)",
+            "en": "Adaptive Cruise Control (ACC)",
+            "es": "Piloto Automático Adaptativo (ACC)",
+            "fr": "Régulateur de vitesse adaptatif (ACC)"
+          },
+          "Subtitulo": {
+            "pt": "Aprenda a ativar, ajustar a velocidade e a distância de segurança para uma condução mais confortável e segura na estrada.",
+            "en": "Learn how to activate, set speed and safety distance for safer and more comfortable driving on the road.",
+            "es": "Aprende a activar, ajustar la velocidad y la distancia de seguridad para conducir con más comodidad y seguridad.",
+            "fr": "Apprenez à activer, ajuster la vitesse et la distance de sécurité pour une conduite plus confortable et sûre sur la route."
+          },
+          "Tags": {
+            "pt": [
+              "Piloto Automático Adaptativo",
+              "ACC",
+              "Assistente de Condução",
+              "Controle de Cruzeiro",
+              "Adaptive Cruise Control",
+              "Segurança",
+              "ADAS",
+              "Frenagem Automática"
+            ],
+            "en": [
+              "Adaptive Cruise Control",
+              "ACC",
+              "Driving Assistant",
+              "Cruise Control",
+              "Safety",
+              "ADAS",
+              "Automatic Braking"
+            ],
+            "es": [
+              "Piloto automático adaptativo",
+              "ACC",
+              "Asistente de conducción",
+              "Control de crucero",
+              "Seguridad",
+              "ADAS",
+              "Frenado automático"
+            ],
+            "fr": [
+              "Régulateur de vitesse adaptatif",
+              "ACC",
+              "Assistant de conduite",
+              "Régulateur de vitesse",
+              "Sécurité",
+              "ADAS",
+              "Freinage automatique"
+            ]
+          },
+          "URL": {
+            "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Piloto%20autom%C3%A1tico%20adaptativo_720p.mp4",
+            "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Piloto%20autom%C3%A1tico%20adaptativo_720p.mp4",
+            "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Piloto%20autom%C3%A1tico%20adaptativo_720p.mp4",
+            "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Piloto%20autom%C3%A1tico%20adaptativo_720p.mp4"
+          },
+          "thumbnail": "https://i.ibb.co/KpdXnbb0/Renault-Kardian.webp",
+          "data_atualizacao": "20/08/2025",
+          "id": "7b4763e5-483f-4e29-b5c2-8629f9e2f575",
+          "categoria": {
+            "pt": "Segurança & ADAS",
+            "en": "Safety & ADAS",
+            "es": "Seguridad y ADAS",
+            "fr": "Sécurité & ADAS"
+          }
+        },
+        {
+          "Titulo": {
+            "pt": "Guia do Limitador de Velocidade do Kardian",
+            "en": "Kardian Speed Limiter Guide",
+            "es": "Guía del Limitador de Velocidad Kardian",
+            "fr": "Guide du limiteur de vitesse Kardian"
+          },
+          "Subtitulo": {
+            "pt": "Ative, configure e desative o limite de velocidade usando os comandos no volante. Saiba como funciona em declives e ultrapassagens.",
+            "en": "Activate, set and deactivate the speed limiter using the steering wheel controls. Learn how it works on slopes and overtaking",
+            "es": "Activa, configura y desactiva el limitador de velocidad usando los mandos en el volante. Descubre cómo funciona en pendientes y adelantamientos.",
+            "fr": "Activez, réglez et désactivez la limitation de vitesse avec les commandes au volant. Découvrez son fonctionnement en pente et en dépassement."
+          },
+          "Tags": {
+            "pt": [
+              "Limitador de Velocidade",
+              "Segurança",
+              "Controle de Cruzeiro",
+              "Funções do Volante"
+            ],
+            "en": [
+              "Speed Limiter",
+              "Safety",
+              "Cruise Control",
+              "Steering Wheel Functions"
+            ],
+            "es": [
+              "Limitador de velocidad",
+              "Seguridad",
+              "Control de crucero",
+              "Funciones del volante"
+            ],
+            "fr": [
+              "Limiteur de vitesse",
+              "Sécurité",
+              "Régulateur de vitesse",
+              "Fonctions du volant"
+            ]
+          },
+          "URL": {
+            "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Limitador%20de%20velocidade_720p.mp4",
+            "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Limitador%20de%20velocidade_720p.mp4",
+            "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Limitador%20de%20velocidade_720p.mp4",
+            "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Limitador%20de%20velocidade_720p.mp4"
+          },
+          "thumbnail": "https://i.ibb.co/KpdXnbb0/Renault-Kardian.webp",
+          "data_atualizacao": "20/08/2025",
+          "id": "36d2ed3a-173b-4aee-9ff5-9e254cdb46c7",
+          "categoria": {
+            "pt": "Segurança & ADAS",
+            "en": "Safety & ADAS",
+            "es": "Seguridad y ADAS",
+            "fr": "Sécurité & ADAS"
+          }
+        },
+        {
+          "Titulo": {
+            "pt": "Como Usar a Câmera 360° (Multiview)",
+            "en": "How to Use the 360° Camera (Multiview)",
+            "es": "Cómo usar la cámara 360° (Multiview)",
+            "fr": "Utiliser la caméra 360° (Multiview)"
+          },
+          "Subtitulo": {
+            "pt": "Descubra como as quatro câmeras do veículo criam uma visão completa do seu entorno, facilitando as manobras mais difíceis.",
+            "en": "Discover how the four cameras of the vehicle create a complete view of your surroundings, making difficult maneuvers easier.",
+            "es": "Descubre cómo las cuatro cámaras del vehículo crean una visión completa del entorno para facilitar las maniobras difíciles.",
+            "fr": "Découvrez comment les quatre caméras du véhicule créent une vue complète de l’environnement, facilitant les manœuvres difficiles."
+          },
+          "Tags": {
+            "pt": [
+              "Câmera 360",
+              "Multiview",
+              "Estacionamento",
+              "Manobras",
+              "Câmera de Ré",
+              "Segurança",
+              "Assistente de Estacionamento",
+              "Multimídia",
+              "Estacionar",
+              "Manobrar"
+            ],
+            "en": [
+              "360 Camera",
+              "Multiview",
+              "Parking",
+              "Maneuvers",
+              "Rear Camera",
+              "Safety",
+              "Parking Assistant",
+              "Multimedia",
+              "Park",
+              "Maneuver"
+            ],
+            "es": [
+              "Cámara 360",
+              "Multiview",
+              "Estacionamiento",
+              "Maniobras",
+              "Cámara de reversa",
+              "Seguridad",
+              "Asistente de estacionamiento",
+              "Multimedia",
+              "Estacionar",
+              "Maniobrar"
+            ],
+            "fr": [
+              "Caméra 360°",
+              "Multiview",
+              "Stationnement",
+              "Manœuvres",
+              "Caméra de recul",
+              "Sécurité",
+              "Assistant de stationnement",
+              "Multimédia",
+              "Stationner",
+              "Manœuvrer"
+            ]
+          },
+          "URL": {
+            "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20C%C3%A2mera%20Multiview_720p.mp4",
+            "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20C%C3%A2mera%20Multiview_720p.mp4",
+            "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20C%C3%A2mera%20Multiview_720p.mp4",
+            "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20C%C3%A2mera%20Multiview_720p.mp4"
+          },
+          "thumbnail": "https://i.ibb.co/KpdXnbb0/Renault-Kardian.webp",
+          "data_atualizacao": "20/08/2025",
+          "id": "1f180d69-4487-4d1f-ab61-14279b5e506c",
+          "categoria": {
+            "pt": "Estacionamento & Manobras",
+            "en": "Parking & Maneuvers",
+            "es": "Estacionamiento y Maniobras",
+            "fr": "Stationnement & Manœuvres"
+          }
+        },
+        {
+          "Titulo": {
+            "pt": "Sistema de monitoramento de pressão dos pneus",
+            "en": "Tire Pressure Monitoring System",
+            "es": "Sistema de monitoreo de presión de neumáticos",
+            "fr": "Système de surveillance de la pression des pneus"
+          },
+          "Subtitulo": {
+            "pt": "Aprenda o passo a passo para reiniciar o sistema após calibrar, trocar ou fazer o rodízio dos pneus e garantir a precisão dos alertas.",
+            "en": "Learn step by step how to reset the system after calibrating, changing or rotating the tires and ensure precise alerts.",
+            "es": "Aprende paso a paso cómo reiniciar el sistema tras calibrar, cambiar o rotar los neumáticos y garantizar la precisión de las alertas",
+            "fr": "Apprenez étape par étape à réinitialiser le système après avoir calibré, changé ou permuté les pneus et à garantir la précision des alertes."
+          },
+          "Tags": {
+            "pt": [
+              "Sensor de Pressão",
+              "TPMS",
+              "Segurança Veicular",
+              "Pneu Murcho",
+              "Manutenção Preventiva"
+            ],
+            "en": [
+              "Pressure Sensor",
+              "TPMS",
+              "Vehicle Safety",
+              "Flat Tire",
+              "Preventive Maintenance"
+            ],
+            "es": [
+              "Sensor de presión",
+              "TPMS",
+              "Seguridad vehicular",
+              "Neumático desinflado",
+              "Mantenimiento preventivo"
+            ],
+            "fr": [
+              "Capteur de pression",
+              "TPMS",
+              "Sécurité du véhicule",
+              "Pneu crevé",
+              "Entretien préventif"
+            ]
+          },
+          "URL": {
+            "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Sistema%20de%20monitoramento%20de%20press%C3%A3o%20dos%20pneus_720p.mp4",
+            "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Sistema%20de%20monitoramento%20de%20press%C3%A3o%20dos%20pneus_720p.mp4",
+            "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Sistema%20de%20monitoramento%20de%20press%C3%A3o%20dos%20pneus_720p.mp4",
+            "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Sistema%20de%20monitoramento%20de%20press%C3%A3o%20dos%20pneus_720p.mp4"
+          },
+          "thumbnail": "https://i.ibb.co/KpdXnbb0/Renault-Kardian.webp",
+          "data_atualizacao": "20/08/2025",
+          "id": "056c1fda-4bd6-4cf1-9b5e-2cadb1c137e6",
+          "categoria": {
+            "pt": "Segurança & ADAS",
+            "en": "Safety & ADAS",
+            "es": "Seguridad y ADAS",
+            "fr": "Sécurité & ADAS"
+          }
+        },
+        {
+          "Titulo": {
+            "pt": "Sistema de Alerta de Ponto Cego",
+            "en": "Blind Spot Warning System",
+            "es": "Sistema de Alerta de Punto Ciego",
+            "fr": "Système d'alerte d’angle mort"
+          },
+          "Subtitulo": {
+            "pt": "Descubra como os sensores detectam veículos ao seu lado e saiba em quais situações o sistema pode não funcionar, garantindo seu uso correto.",
+            "en": "Discover how the sensors detect vehicles at your side and learn in which situations the system may not work to ensure proper use.",
+            "es": "Descubre cómo los sensores detectan vehículos a tu lado y aprende en qué situaciones el sistema puede no funcionar correctamente",
+            "fr": "Découvrez comment les capteurs détectent les véhicules à côté et dans quelles situations le système peut ne pas fonctionner correctement afin d’en assurer l’utilisation adéquate."
+          },
+          "Tags": {
+            "pt": [
+              "Alerta de Ponto Cego",
+              "BSW",
+              "ADAS",
+              "Assistência ao Motorista",
+              "Sensores",
+              "Segurança",
+              "Alerta",
+              "Retrovisor"
+            ],
+            "en": [
+              "Blind Spot Alert",
+              "BSW",
+              "ADAS",
+              "Driver Assistance",
+              "Sensors",
+              "Safety",
+              "Alert",
+              "Mirror"
+            ],
+            "es": [
+              "Alerta de punto ciego",
+              "BSW",
+              "ADAS",
+              "Asistencia al conductor",
+              "Sensores",
+              "Seguridad",
+              "Alerta",
+              "Espejo"
+            ],
+            "fr": [
+              "Alerte d’angle mort",
+              "BSW",
+              "ADAS",
+              "Assistance au conducteur",
+              "Capteurs",
+              "Sécurité",
+              "Alerte",
+              "Rétroviseu"
+            ]
+          },
+          "URL": {
+            "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Alerta%20de%20ponto%20cego_720p.mp4",
+            "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Alerta%20de%20ponto%20cego_720p.mp4",
+            "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Alerta%20de%20ponto%20cego_720p.mp4",
+            "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Alerta%20de%20ponto%20cego_720p.mp4"
+          },
+          "thumbnail": "https://i.ibb.co/KpdXnbb0/Renault-Kardian.webp",
+          "data_atualizacao": "20/08/2025",
+          "id": "b9a4191c-7e67-44f9-934d-8489ad76ad7f",
+          "categoria": {
+            "pt": "Segurança & ADAS",
+            "en": "Safety & ADAS",
+            "es": "Seguridad y ADAS",
+            "fr": "Sécurité & ADAS"
+          }
+        },
+        {
+          "Titulo": {
+            "pt": "Sistema de Alerta de Distância Segura",
+            "en": "Safe Distance Alert System",
+            "es": "Sistema de Alerta de Distancia Segura",
+            "fr": "Système d’alerte de distance de sécurité"
+          },
+          "Subtitulo": {
+            "pt": "Descubra como o sensor dianteiro monitora o tráfego em tempo real para te avisar sobre a proximidade com outros veículos",
+            "en": "Discover how the front sensor monitors traffic in real time to alert about proximity to other vehicles",
+            "es": "Descubre cómo el sensor delantero monitorea el tráfico en tiempo real para avisarte sobre la proximidad con otros vehículo",
+            "fr": "Découvrez comment le capteur avant surveille le trafic en temps réel pour vous avertir de la proximité d'autres véhicules."
+          },
+          "Tags": {
+            "pt": [
+              "Distância Segura",
+              "ADAS",
+              "Segurança Veicular",
+              "Sensor Dianteiro",
+              "Alerta de Colisão",
+              "Assistente de Condução",
+              "Prevenção de Colisão",
+              "Painel de Instrumentos"
+            ],
+            "en": [
+              "Safe Distance",
+              "ADAS",
+              "Vehicle Safety",
+              "Front Sensor",
+              "Collision Alert",
+              "Driving Assistant",
+              "Collision Prevention",
+              "Instrument Panel"
+            ],
+            "es": [
+              "Distancia segura",
+              "ADAS",
+              "Seguridad vehicular",
+              "Sensor delantero",
+              "Alerta de colisión",
+              "Asistente de conducción",
+              "Prevención de colisión",
+              "Panel de instrumentos"
+            ],
+            "fr": [
+              "Distance de sécurité",
+              "ADAS",
+              "Sécurité du véhicule",
+              "Capteur avant",
+              "Alerte de collision",
+              "Assistant de conduite",
+              "Prévention des collisions",
+              "Tableau de bord"
+            ]
+          },
+          "URL": {
+            "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Alerta%20de%20dist%C3%A2ncia%20segura_1080p.mp4",
+            "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Alerta%20de%20dist%C3%A2ncia%20segura_1080p.mp4",
+            "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Alerta%20de%20dist%C3%A2ncia%20segura_1080p.mp4",
+            "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Alerta%20de%20dist%C3%A2ncia%20segura_1080p.mp4"
+          },
+          "thumbnail": "https://i.ibb.co/KpdXnbb0/Renault-Kardian.webp",
+          "data_atualizacao": "20/08/2025",
+          "id": "f52d12e1-c5da-446e-9bab-922cb5bea294",
+          "categoria": {
+            "pt": "Segurança & ADAS",
+            "en": "Safety & ADAS",
+            "es": "Seguridad y ADAS",
+            "fr": "Sécurité & ADAS"
+          }
+        },
+        {
+          "Titulo": {
+            "pt": "Como Usar o Câmbio Automático",
+            "en": "How to Use the Automatic Gearbox",
+            "es": "Cómo usar la transmisión automática",
+            "fr": "Comment utiliser la boîte de vitesses automatique"
+          },
+          "Subtitulo": {
+            "pt": "Aprenda a dar a partida, selecionar as marchas e entenda as funções de segurança automáticas do sistema",
+            "en": "Learn how to start, select gears, and understand the system’s automatic safety functions.",
+            "es": "Aprende a arrancar, seleccionar las marchas y entender las funciones automáticas de seguridad del sistema",
+            "fr": "Apprenez à démarrer, à sélectionner les vitesses et à comprendre les fonctions de sécurité automatiques du système."
+          },
+          "Tags": {
+            "pt": [
+              "Câmbio Automático",
+              "Direção",
+              "Marchas",
+              "Alavanca de Câmbio",
+              "Dicas de Condução",
+              "Segurança",
+              "Transmissão Automática",
+              "Condução Econômica"
+            ],
+            "en": [
+              "Automatic Gearbox",
+              "Driving",
+              "Gears",
+              "Gear Lever",
+              "Driving Tips",
+              "Safety",
+              "Automatic Transmission",
+              "Economical Driving"
+            ],
+            "es": [
+              "Transmisión automática",
+              "Conducción",
+              "Marchas",
+              "Palanca de cambios",
+              "Consejos de conducción",
+              "Seguridad",
+              "Transmisión automática",
+              "Conducción económica"
+            ],
+            "fr": [
+              "Boîte de vitesses automatique",
+              "Conduite",
+              "Vitesses",
+              "Levier",
+              "Conseils de conduite",
+              "Sécurité",
+              "Boîte automatique",
+              "Conduite économique"
+            ]
+          },
+          "URL": {
+            "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Comando%20de%20velocidade_720p.mp4",
+            "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Comando%20de%20velocidade_720p.mp4",
+            "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Comando%20de%20velocidade_720p.mp4",
+            "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Comando%20de%20velocidade_720p.mp4"
+          },
+          "thumbnail": "https://i.ibb.co/KpdXnbb0/Renault-Kardian.webp",
+          "data_atualizacao": "20/08/2025",
+          "id": "04a5316f-2d85-4c15-b836-b926e55a93ed",
+          "categoria": {
+            "pt": "Condução & Direção",
+            "en": "Driving & Steering",
+            "es": "Conducción y Dirección",
+            "fr": "Conduite & Direction"
+          }
+        },
+        {
+          "Titulo": {
+            "pt": "Frenagem de Emergência Ativa",
+            "en": "Active Emergency Braking",
+            "es": "Frenado de emergencia activo",
+            "fr": "Freinage d’urgence actif"
+          },
+          "Subtitulo": {
+            "pt": "Entenda como o radar frontal detecta riscos de colisão, emite alertas e auxilia na frenagem para garantir a sua segurança.",
+            "en": "Learn how the front radar detects collision risks, issues alerts, and assists in braking to ensure your safety",
+            "es": "Descubre cómo el radar frontal detecta riesgos de colisión, emite alertas y asiste en el frenado para tu seguridad.",
+            "fr": "Comprenez comment le radar avant détecte les risques de collision, émet des alertes et aide au freinage pour votre sécurité."
+          },
+          "Tags": {
+            "pt": [
+              "Frenagem de Emergência Ativa",
+              "AEB",
+              "Segurança Ativa",
+              "Prevenção de Colisão",
+              "Assistente de Condução",
+              "ADAS"
+            ],
+            "en": [
+              "Active Emergency Braking",
+              "AEB",
+              "Active Safety",
+              "Collision Prevention",
+              "Driving Assistant",
+              "ADAS"
+            ],
+            "es": [
+              "Frenado de emergencia activo",
+              "AEB",
+              "Seguridad activa",
+              "Prevención de colisiones",
+              "Asistente de conducción",
+              "ADAS"
+            ],
+            "fr": [
+              "Freinage d’urgence actif",
+              "AEB",
+              "Sécurité active",
+              "Prévention des collisions",
+              "Assistant de conduite",
+              "ADAS"
+            ]
+          },
+          "URL": {
+            "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Radar%20Frontal%20da%20Frenagem%20de%20Emerg%C3%AAncia%20Ativa_720p.mp4",
+            "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Radar%20Frontal%20da%20Frenagem%20de%20Emerg%C3%AAncia%20Ativa_720p.mp4",
+            "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Radar%20Frontal%20da%20Frenagem%20de%20Emerg%C3%AAncia%20Ativa_720p.mp4",
+            "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Radar%20Frontal%20da%20Frenagem%20de%20Emerg%C3%AAncia%20Ativa_720p.mp4"
+          },
+          "thumbnail": "https://i.ibb.co/KpdXnbb0/Renault-Kardian.webp",
+          "data_atualizacao": "20/08/2025",
+          "id": "7d7adea2-b7c8-4e87-b8ba-2c3822873ee4",
+          "categoria": {
+            "pt": "Segurança & ADAS",
+            "en": "Safety & ADAS",
+            "es": "Seguridad y ADAS",
+            "fr": "Sécurité & ADAS"
+          }
+        },
+        {
+          "Titulo": {
+            "pt": "Central Multimídia",
+            "en": "Multimedia Center",
+            "es": "Central multimedia",
+            "fr": "Centrale multimédia"
+          },
+          "Subtitulo": {
+            "pt": "Um guia completo para você dominar o rádio, Bluetooth, chamadas, Android Auto, CarPlay e as configurações do veículo",
+            "en": "A complete guide to mastering your radio, Bluetooth, calls, Android Auto, CarPlay, and your vehicle’s settings",
+            "es": "Una guía completa para dominar la radio, Bluetooth, llamadas, Android Auto, CarPlay y la configuración del vehículo",
+            "fr": "Un guide complet pour maîtriser la radio, le Bluetooth, les appels, Android Auto, CarPlay et les réglages du véhicule"
+          },
+          "Tags": {
+            "pt": [
+              "Central Multimídia",
+              "Android Auto",
+              "Apple CarPlay",
+              "Bluetooth",
+              "Rádio",
+              "Driving Eco",
+              "Espelhamento"
+            ],
+            "en": [
+              "Multimedia Center",
+              "Android Auto",
+              "Apple CarPlay",
+              "Bluetooth",
+              "Radio",
+              "Driving Eco",
+              "Mirroring"
+            ],
+            "es": [
+              "Central multimedia",
+              "Android Auto",
+              "Apple CarPlay",
+              "Bluetooth",
+              "Radio",
+              "Driving Eco",
+              "Duplicación de pantalla"
+            ],
+            "fr": [
+              "Centrale multimédia",
+              "Android Auto",
+              "Apple CarPlay",
+              "Bluetooth",
+              "Radio",
+              "Driving Eco",
+              "Duplication d’écran"
+            ]
+          },
+          "URL": {
+            "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20MULTIM%C3%8DDIA_720p.mp4",
+            "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20MULTIM%C3%8DDIA_720p.mp4",
+            "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20MULTIM%C3%8DDIA_720p.mp4",
+            "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20MULTIM%C3%8DDIA_720p.mp4"
+          },
+          "thumbnail": "https://i.ibb.co/KpdXnbb0/Renault-Kardian.webp",
+          "data_atualizacao": "20/08/2025",
+          "id": "f912d8af-d796-49c7-a229-5674e92864c5",
+          "categoria": {
+            "pt": "Multimídia & Entretenimento",
+            "en": "Multimedia & Entertainment",
+            "es": "Multimedia y Entretenimiento",
+            "fr": "Multimédia & Divertissement"
+          }
+        },
+        {
+          "Titulo": {
+            "pt": "Desvendando o Painel de Instrumentos do Renault Kardian",
+            "en": "Unveiling the Renault Kardian Instrument Panel",
+            "es": "Descubriendo el panel de instrumentos del Renault Kardian",
+            "fr": "À la découverte du tableau de bord du Renault Kardian"
+          },
+          "Subtitulo": {
+            "pt": "Entenda todos os ícones, luzes de alerta e informações do computador de bordo do seu carro",
+            "en": "Understand all the icons, warning lights, and onboard computer information in your car",
+            "es": "Entiende todos los íconos, las luces de advertencia y la información del ordenador de a bordo de tu coche",
+            "fr": "Comprenez tous les icônes, voyants d’alerte et les informations de l’ordinateur de bord de votre voiture"
+          },
+          "Tags": {
+            "pt": [
+              "Painel de Instrumentos",
+              "Luzes do Painel",
+              "Computador de Bordo",
+              "Alertas",
+              "Símbolos",
+              "Significado"
+            ],
+            "en": [
+              "Instrument Panel",
+              "Dashboard Lights",
+              "Onboard Computer",
+              "Alerts",
+              "Symbols",
+              "Meaning"
+            ],
+            "es": [
+              "Panel de instrumentos",
+              "Luces del tablero",
+              "Ordenador de a bordo",
+              "Alertas",
+              "Símbolos",
+              "Significado"
+            ],
+            "fr": [
+              "Tableau de bord",
+              "Voyants lumineux",
+              "Ordinateur de bord",
+              "Alertes",
+              "Symboles",
+              "Signification"
+            ]
+          },
+          "URL": {
+            "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Painel%20de%20instrumentos_720p.mp4",
+            "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Painel%20de%20instrumentos_720p.mp4",
+            "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Painel%20de%20instrumentos_720p.mp4",
+            "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Painel%20de%20instrumentos_720p.mp4"
+          },
+          "thumbnail": "https://i.ibb.co/KpdXnbb0/Renault-Kardian.webp",
+          "data_atualizacao": "20/08/2025",
+          "id": "ea97282a-eae7-45a2-989c-b6c2e28abbc8",
+          "categoria": {
+            "pt": "Condução & Direção",
+            "en": "Driving & Steering",
+            "es": "Conducción y Dirección",
+            "fr": "Conduite & Direction"
+          }
+        },
+        {
+          "Titulo": {
+            "pt": "Tudo Sobre os Sensores de Estacionamento",
+            "en": "All About Parking Sensors",
+            "es": "Todo sobre los sensores de estacionamiento",
+            "fr": "Tout sur les capteurs de stationnement"
+          },
+          "Subtitulo": {
+            "pt": "Entenda o significado dos bipes e das cores na tela para estacionar com facilidade e confiança em qualquer vaga.",
+            "en": "Learn the meaning of beeps and screen colors to park easily and confidently anywhere",
+            "es": "Entiende el significado de los pitidos y los colores en la pantalla para aparcar con facilidad y confianza en cualquier área.",
+            "fr": "Comprenez le sens des bips et des couleurs à l’écran pour vous stationner facilement et en toute confiance, partout."
+          },
+          "Tags": {
+            "pt": [
+              "Sensor de Ré",
+              "Estacionar",
+              "Manobrar",
+              "Alerta Sonoro",
+              "Baliza",
+              "Sensores de Estacionamento",
+              "ADAS"
+            ],
+            "en": [
+              "Rear Sensor",
+              "Parking",
+              "Maneuvering",
+              "Audible Alert",
+              "Parallel Parking",
+              "Parking Sensors",
+              "ADAS"
+            ],
+            "es": [
+              "Sensor de reversa",
+              "Estacionar",
+              "Maniobrar",
+              "Alerta sonoro",
+              "Aparcamiento en paralelo",
+              "Sensores de estacionamiento",
+              "ADAS"
+            ],
+            "fr": [
+              "Capteur de recul",
+              "Stationnement",
+              "Manœuvrer",
+              "Alerte sonore",
+              "Parking en créneau",
+              "Capteurs de stationnement",
+              "ADAS"
+            ]
+          },
+          "URL": {
+            "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Sensores%20de%20estacionamento_720p.mp4",
+            "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Sensores%20de%20estacionamento_720p.mp4",
+            "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Sensores%20de%20estacionamento_720p.mp4",
+            "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/RENAULT%20KARDIAN%20_%20Sensores%20de%20estacionamento_720p.mp4"
+          },
+          "thumbnail": "https://i.ibb.co/KpdXnbb0/Renault-Kardian.webp",
+          "data_atualizacao": "20/08/2025",
+          "id": "16fb6dcd-9525-4bca-820e-f0b0596c5486",
+          "categoria": {
+            "pt": "Estacionamento & Manobras",
+            "en": "Parking & Maneuvers",
+            "es": "Estacionamiento y Maniobras",
+            "fr": "Stationnement & Manœuvres"
+          }
+        },
+        {
+          "Titulo": {
+            "pt": "Como ativar a partida remota do seu carro em segundos!",
+            "en": "How to activate remote start in your car in seconds!",
+            "es": "¡Cómo activar el arranque remoto de tu coche en segundos!",
+            "fr": "Comment activer le démarrage à distance de votre voiture en quelques secondes !"
+          },
+          "Subtitulo": {
+            "pt": "Aprenda o passo a passo para ligar o motor à distância, aumentando o conforto e segurança antes de entrar no veículo.",
+            "en": "Learn step by step how to start your engine remotely, boosting comfort and safety before getting into your vehicle.",
+            "es": "Aprende paso a paso a encender el motor a distancia, para más comodidad y seguridad antes de ingresar al vehículo.",
+            "fr": "Découvrez, étape par étape, comment démarrer le moteur à distance pour plus de confort et de sécurité avant d’entrer dans votre véhicule."
+          },
+          "Tags": {
+            "pt": [
+              "partida remota",
+              "conforto",
+              "segurança",
+              "ativação rápida",
+              "carro",
+              "tutorial",
+              "Shorts"
+            ],
+            "en": [
+              "remote start",
+              "comfort",
+              "safety",
+              "quick activation",
+              "car",
+              "tutorial",
+              "Shorts"
+            ],
+            "es": [
+              "arranque remoto",
+              "comodidad",
+              "seguridad",
+              "activación rápida",
+              "coche",
+              "tutorial",
+              "Shorts"
+            ],
+            "fr": [
+              "démarrage à distance",
+              "confort",
+              "sécurité",
+              "activation rapide",
+              "voiture",
+              "tutoriel",
+              "Shorts"
+            ]
+          },
+          "URL": {
+            "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/Como%20ativar%20a%20partida%20remota%20do%20seu%20carro%20em%20segundos!.mp4",
+            "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/Como%20ativar%20a%20partida%20remota%20do%20seu%20carro%20em%20segundos!.mp4",
+            "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/Como%20ativar%20a%20partida%20remota%20do%20seu%20carro%20em%20segundos!.mp4",
+            "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/Como%20ativar%20a%20partida%20remota%20do%20seu%20carro%20em%20segundos!.mp4"
+          },
+          "thumbnail": "https://i.ibb.co/KpdXnbb0/Renault-Kardian.webp",
+          "data_atualizacao": "22/08/2025",
+          "id": "550510da-5606-467d-9a66-3cdd01f9c776",
+          "categoria": {
+            "pt": "Shorts",
+            "en": "Shorts",
+            "es": "Shorts",
+            "fr": "Shorts"
+          }
+        },
+        {
+          "Titulo": {
+            "pt": "Como Usar o Carro após utilizar a Partida Remota",
+            "en": "How to Use Your Car After Using Remote Start",
+            "es": "Cómo usar el coche después de utilizar el arranque remoto",
+            "fr": "Comment utiliser la voiture après avoir utilisé le démarrage à distance"
+          },
+          "Subtitulo": {
+            "pt": "Descubra os procedimentos corretos para dirigir seu veículo com segurança depois de ativar a partida remota.",
+            "en": "Discover the correct steps to drive your vehicle safely after activating remote start.",
+            "es": "Descubre los procedimientos correctos para conducir tu vehículo con seguridad tras activar el arranque remoto.",
+            "fr": "Découvrez les étapes à suivre pour conduire votre véhicule en toute sécurité après avoir activé le démarrage à distance."
+          },
+          "Tags": {
+            "pt": [
+              "partida remota",
+              "uso do carro",
+              "passos",
+              "segurança",
+              "dicas",
+              "ligar motor",
+              "Shorts"
+            ],
+            "en": [
+              "remote start",
+              "using the car",
+              "steps",
+              "safety",
+              "tips",
+              "start engine",
+              "Shorts"
+            ],
+            "es": [
+              "arranque remoto",
+              "uso del coche",
+              "pasos",
+              "seguridad",
+              "consejos",
+              "encender motor",
+              "Shorts"
+            ],
+            "fr": [
+              "démarrage à distance",
+              "utilisation de la voiture",
+              "étapes",
+              "sécurité",
+              "astuces",
+              "démarrer moteur",
+              "Shorts"
+            ]
+          },
+          "URL": {
+            "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/Como%20Usar%20o%20Carro%20ap%C3%B3s%20a%20utilizar%20a%20Partida%20Remota.mp4",
+            "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/Como%20Usar%20o%20Carro%20ap%C3%B3s%20a%20utilizar%20a%20Partida%20Remota.mp4",
+            "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/Como%20Usar%20o%20Carro%20ap%C3%B3s%20a%20utilizar%20a%20Partida%20Remota.mp4",
+            "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/Como%20Usar%20o%20Carro%20ap%C3%B3s%20a%20utilizar%20a%20Partida%20Remota.mp4"
+          },
+          "thumbnail": "https://i.ibb.co/KpdXnbb0/Renault-Kardian.webp",
+          "data_atualizacao": "22/08/2025",
+          "id": "4e554ade-bc22-4b75-877c-7004a4800c32",
+          "categoria": {
+            "pt": "Shorts",
+            "en": "Shorts",
+            "es": "Shorts",
+            "fr": "Shorts"
+          }
+        },
+        {
+          "Titulo": {
+            "pt": "Piloto Automático Desativado: Entenda! (Dicas e Segurança)",
+            "en": "Cruise Control Deactivated: Understand! (Tips and Safety)",
+            "es": "Piloto Automático Desactivado: ¡Entiende! (Consejos y Seguridad)",
+            "fr": "Régulateur de Vitesse Désactivé : Comprenez ! (Conseils et Sécurité)"
+          },
+          "Subtitulo": {
+            "pt": "Descubra por que o piloto automático é desativado, quando ele pode se desligar e dicas de segurança para uso correto do sistema.",
+            "en": "Learn why cruise control is deactivated, when it may turn off, and safety tips for proper system use",
+            "es": "Descubre por qué se desactiva el piloto automático, cuándo puede apagarse y consejos de seguridad para su uso adecuado.",
+            "fr": "Découvrez pourquoi le régulateur de vitesse se désactive, quand il peut s’arrêter, et des conseils de sécurité pour son utilisation correcte."
+          },
+          "Tags": {
+            "pt": [
+              "piloto automático",
+              "desativado",
+              "segurança",
+              "dicas",
+              "controle de cruzeiro",
+              "sistema",
+              "dirigir",
+              "Shorts"
+            ],
+            "en": [
+              "cruise control",
+              "deactivated",
+              "safety",
+              "tips",
+              "driving",
+              "system",
+              "use",
+              "Shorts"
+            ],
+            "es": [
+              "piloto automático",
+              "desactivado",
+              "seguridad",
+              "consejos",
+              "control de crucero",
+              "sistema",
+              "manejar",
+              "Shorts"
+            ],
+            "fr": [
+              "régulateur de vitesse",
+              "désactivé",
+              "sécurité",
+              "conseils",
+              "système",
+              "conduite",
+              "utilisation",
+              "Shorts"
+            ]
+          },
+          "URL": {
+            "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/Piloto_Autom%C3%A1tico_Desativado_Entenda!_Dicas_e_Seguran%C3%A7a.mp4",
+            "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/Piloto_Autom%C3%A1tico_Desativado_Entenda!_Dicas_e_Seguran%C3%A7a.mp4",
+            "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/Piloto_Autom%C3%A1tico_Desativado_Entenda!_Dicas_e_Seguran%C3%A7a.mp4",
+            "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/Piloto_Autom%C3%A1tico_Desativado_Entenda!_Dicas_e_Seguran%C3%A7a.mp4"
+          },
+          "thumbnail": "https://i.ibb.co/KpdXnbb0/Renault-Kardian.webp",
+          "data_atualizacao": "22/08/2025",
+          "id": "4a206334-b6a0-4c87-b423-d78d2d1ef425",
+          "categoria": {
+            "pt": "Shorts",
+            "en": "Shorts",
+            "es": "Shorts",
+            "fr": "Shorts"
+          }
+        },
+        {
+          "Titulo": {
+            "pt": "Piloto Automático Adaptativo: Pausar e Retomar Facilmente!",
+            "en": "Adaptive Cruise Control: Pause and Resume Easily!",
+            "es": "Piloto Automático Adaptativo: ¡Pausa y Reanuda Fácilmente!",
+            "fr": "Régulateur de Vitesse Adaptatif : Mettre en Pause et Reprendre Facilement !"
+          },
+          "Subtitulo": {
+            "pt": "Aprenda como pausar e retomar o piloto automático adaptativo do seu carro para garantir mais conforto e segurança.",
+            "en": "Learn how to pause and resume your car’s adaptive cruise control for greater comfort and safety.",
+            "es": "Descubre cómo pausar y reanudar el piloto automático adaptativo de tu coche para mayor comodidad y seguridad.",
+            "fr": "Apprenez à mettre en pause et à reprendre le régulateur de vitesse adaptatif de votre voiture pour plus de confort et de sécurité."
+          },
+          "Tags": {
+            "pt": [
+              "piloto automático adaptativo",
+              "ACC",
+              "pausar",
+              "retomar",
+              "conforto",
+              "segurança",
+              "dicas",
+              "controle de cruzeiro",
+              "Shorts"
+            ],
+            "en": [
+              "adaptive cruise control",
+              "ACC",
+              "pause",
+              "resume",
+              "comfort",
+              "safety",
+              "tips",
+              "cruise control",
+              "Shorts"
+            ],
+            "es": [
+              "piloto automático adaptativo",
+              "ACC",
+              "pausar",
+              "reanudar",
+              "comodidad",
+              "seguridad",
+              "consejos",
+              "control de crucero",
+              "Shorts"
+            ],
+            "fr": [
+              "régulateur de vitesse adaptatif",
+              "ACC",
+              "pause",
+              "reprise",
+              "confort",
+              "sécurité",
+              "conseils",
+              "régulateur de vitesse",
+              "Shorts"
+            ]
+          },
+          "URL": {
+            "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/Piloto_Autom%C3%A1tico_Adaptativo_Pausar_e_Retomar_Facilmente!.mp4",
+            "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/Piloto_Autom%C3%A1tico_Adaptativo_Pausar_e_Retomar_Facilmente!.mp4",
+            "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/Piloto_Autom%C3%A1tico_Adaptativo_Pausar_e_Retomar_Facilmente!.mp4",
+            "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/Piloto_Autom%C3%A1tico_Adaptativo_Pausar_e_Retomar_Facilmente!.mp4"
+          },
+          "thumbnail": "https://i.ibb.co/KpdXnbb0/Renault-Kardian.webp",
+          "data_atualizacao": "22/08/2025",
+          "id": "912c9f91-1aea-46dd-bd44-f6816a39d3a2",
+          "categoria": {
+            "pt": "Shorts",
+            "en": "Shorts",
+            "es": "Shorts",
+            "fr": "Shorts"
+          }
+        },
+        {
+          "Titulo": {
+            "pt": "Como Ativar o Controle de Velocidade no Seu Carro",
+            "en": "How to Activate Cruise Control in Your Car",
+            "es": "Cómo Activar el Control de Velocidad en tu Coche",
+            "fr": "Comment Activer le Régulateur de Vitesse dans Votre Voiture"
+          },
+          "Subtitulo": {
+            "pt": "Aprenda o passo a passo para ativar, configurar e aproveitar a função de controle de velocidade, tornando suas viagens mais seguras e confortáveis",
+            "en": "Learn step by step how to activate, set up, and enjoy cruise control for safer and more comfortable trips.",
+            "es": "Aprende paso a paso cómo activar, configurar y aprovechar el control de velocidad para viajes más seguros y cómodos.",
+            "fr": "Découvrez, étape par étape, comment activer et configurer le régulateur de vitesse pour des trajets plus sûrs et confortables."
+          },
+          "Tags": {
+            "pt": [
+              "controle de velocidade",
+              "piloto automático",
+              "cruise control",
+              "ativação",
+              "dicas",
+              "conforto",
+              "segurança",
+              "viagem",
+              "Shorts"
+            ],
+            "en": [
+              "cruise control",
+              "speed control",
+              "activate",
+              "tips",
+              "comfort",
+              "safety",
+              "trip",
+              "Shorts"
+            ],
+            "es": [
+              "control de velocidad",
+              "piloto automático",
+              "cruise control",
+              "activar",
+              "consejos",
+              "comodidad",
+              "seguridad",
+              "viaje",
+              "Shorts"
+            ],
+            "fr": [
+              "régulateur de vitesse",
+              "pilote automatique",
+              "cruise control",
+              "activation",
+              "astuces",
+              "confort",
+              "sécurité",
+              "trajet",
+              "Shorts"
+            ]
+          },
+          "URL": {
+            "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/Como%20Ativar%20o%20Controle%20de%20Velocidade%20no%20Seu%20Carro.mp4",
+            "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/Como%20Ativar%20o%20Controle%20de%20Velocidade%20no%20Seu%20Carro.mp4",
+            "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/Como%20Ativar%20o%20Controle%20de%20Velocidade%20no%20Seu%20Carro.mp4",
+            "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/Kardian/Como%20Ativar%20o%20Controle%20de%20Velocidade%20no%20Seu%20Carro.mp4"
+          },
+          "thumbnail": "https://i.ibb.co/KpdXnbb0/Renault-Kardian.webp",
+          "data_atualizacao": "22/08/2025",
+          "id": "658230b0-b473-409d-bd32-958479e45824",
+          "categoria": {
+            "pt": "Shorts",
+            "en": "Shorts",
+            "es": "Shorts",
+            "fr": "Shorts"
+          }
+        }
+      ]
+    },
+    "New Koleos": {
+      "categoria_thumbnail": "https://i.ibb.co/xqN2ys9Z/Renault-New-Koleos.png",
+      "videos": [
+        {
+          "Titulo": {
+            "pt": "Assistente de estacionamento",
+            "en": "Parking assistant",
+            "es": "Asistente de aparcamiento",
+            "fr": "Assistant de stationnement"
+          },
+          "Subtitulo": {
+            "pt": "Saiba como ativar e utilizar o assistente de estacionamento",
+            "en": "Learn how to activate and use the parking assistant",
+            "es": "Aprenda a activar y utilizar el asistente de aparcamiento",
+            "fr": "Apprenez à activer et à utiliser l'assistant de stationnement"
+          },
+          "Tags": {
+            "pt": [
+              "assistente de estacionamento",
+              "ADAS",
+              "auxilio"
+            ],
+            "en": [
+              "parking assistant",
+              "ADAS",
+              "help"
+            ],
+            "es": [
+              "asistente de aparcamiento",
+              "ADAS",
+              "ayuda"
+            ],
+            "fr": [
+              "assistant de stationnement",
+              "ADAS",
+              "aide"
+            ]
+          },
+          "URL": {
+            "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%201.mp4",
+            "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%201.mp4",
+            "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%201.mp4",
+            "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%201.mp4"
+          },
+          "thumbnail": "https://i.ibb.co/xqN2ys9Z/Renault-New-Koleos.png",
+          "data_atualizacao": "14/07/2025",
+          "id": "5433a49b-b2d9-4333-bac3-3fd45e9b072a",
+          "categoria": {
+            "pt": "Estacionamento & Manobras",
+            "en": "Parking & Maneuvers",
+            "es": "Estacionamiento y Maniobras",
+            "fr": "Stationnement & Manœuvres"
+          }
+        },
+        {
+          "Titulo": {
+            "pt": "Ajustando o teto solar",
+            "en": "Adjusting the sunroof",
+            "es": "Ajuste del techo solar",
+            "fr": "Réglage du toit ouvrant"
+          },
+          "Subtitulo": {
+            "pt": "Entenda todos os modos de ajustes disponíveis para o teto solar",
+            "en": "Understand all available adjustment modes for the sunroof",
+            "es": "Conozca todos los modos de ajuste disponibles para el techo solar",
+            "fr": "Comprendre tous les modes de réglage disponibles pour le toit ouvrant"
+          },
+          "Tags": {
+            "pt": [
+              "conforto",
+              "teto solar",
+              "ajustes",
+              "ativação teto solar"
+            ],
+            "en": [
+              "comfort",
+              "sunroof",
+              "settings",
+              "sunroof activation"
+            ],
+            "es": [
+              "comodidad",
+              "techo solar",
+              "ajustes",
+              "activación del techo solar"
+            ],
+            "fr": [
+              "confort",
+              "toit ouvrant",
+              "réglages",
+              "activation du toit ouvrant"
+            ]
+          },
+          "URL": {
+            "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%202.mp4",
+            "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%202.mp4",
+            "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%202.mp4",
+            "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%202.mp4"
+          },
+          "thumbnail": "https://i.ibb.co/xqN2ys9Z/Renault-New-Koleos.png",
+          "data_atualizacao": "16/06/2025",
+          "id": "6cf850c2-3460-45a5-8d91-025222b4a854",
+          "categoria": {
+            "pt": "Conforto & Bancos",
+            "en": "Comfort & Seats",
+            "es": "Comodidad y Asientos",
+            "fr": "Confort & Sièges"
+          }
+        },
+        {
+          "Titulo": {
+            "pt": "OK Google, me ensine sobre meu carro",
+            "en": "OK Google, teach me about my car",
+            "es": "OK Google, enséñame sobre mi coche",
+            "fr": "OK Google, apprends-moi sur ma voiture"
+          },
+          "Subtitulo": {
+            "pt": "Aprenda os principais comandos de voz disponíveis no seu Google assistente",
+            "en": "Learn the main voice commands available on your Google Assistant",
+            "es": "Aprende los principales comandos de voz disponibles en tu Asistente de Google",
+            "fr": "Apprenez les principales commandes vocales disponibles sur votre Assistant Google"
+          },
+          "Tags": {
+            "pt": [
+              "GAS",
+              "google",
+              "comandos de voz",
+              "assistente de voz"
+            ],
+            "en": [
+              "GAS",
+              "google",
+              "voice commands",
+              "voice assistant"
+            ],
+            "es": [
+              "GAS",
+              "google",
+              "comandos de voz",
+              "asistente de voz"
+            ],
+            "fr": [
+              "GAS",
+              "google",
+              "commandes vocales",
+              "assistant vocal"
+            ]
+          },
+          "URL": {
+            "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%203.mp4",
+            "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%203.mp4",
+            "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%203.mp4",
+            "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%203.mp4"
+          },
+          "thumbnail": "https://i.ibb.co/xqN2ys9Z/Renault-New-Koleos.png",
+          "data_atualizacao": "16/05/2025",
+          "id": "9158ef77-bae9-4bf7-964a-0fa2c99db3c3",
+          "categoria": {
+            "pt": "Tecnologia & Personalização",
+            "en": "Technology & Customization",
+            "es": "Tecnología y Personalización",
+            "fr": "Technologie & Personnalisation"
+          }
+        }
+      ]
+    },
+    "Kwid": {
+      "categoria_thumbnail": "https://i.ibb.co/LDV5GcY3/Renault-Kwid.webp",
+      "videos": [
+        {
+          "Titulo": {
+            "pt": "Funções da Multimídia",
+            "en": "Multimedia Features",
+            "es": "Funciones Multimedia",
+            "fr": "Fonctionnalités Multimédia"
+          },
+          "Subtitulo": {
+            "pt": "Conheça tudo o que sua multimídia pode te oferecer",
+            "en": "Discover everything your multimedia system has to offer",
+            "es": "Descubra todo lo que su sistema multimedia puede ofrecerle",
+            "fr": "Découvrez tout ce que votre système multimédia peut vous offrir"
+          },
+          "Tags": {
+            "pt": [
+              "multimídia",
+              "tela",
+              "entretenimento",
+              "navegação",
+              "conectividade",
+              "configurações",
+              "áudio"
+            ],
+            "en": [
+              "multimedia",
+              "screen",
+              "entertainment",
+              "navigation",
+              "connectivity",
+              "settings",
+              "audio"
+            ],
+            "es": [
+              "multimedia",
+              "pantalla",
+              "entretenimiento",
+              "navegación",
+              "conectividad",
+              "configuración",
+              "audio"
+            ],
+            "fr": [
+              "multimédia",
+              "écran",
+              "divertissement",
+              "navigation",
+              "connectivité",
+              "paramètres",
+              "audio"
+            ]
+          },
+          "URL": {
+            "pt": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%207.mp4",
+            "en": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%207.mp4",
+            "es": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%207.mp4",
+            "fr": "https://raw.githubusercontent.com/davidkalil10/pilulas-json/refs/heads/main/video%207.mp4"
+          },
+          "thumbnail": "https://i.ibb.co/LDV5GcY3/Renault-Kwid.webp",
+          "data_atualizacao": "14/08/2025",
+          "id": "640aba5b-3d24-4398-8f1a-4c24464b6795",
+          "categoria": {
+            "pt": "Multimídia & Entretenimento",
+            "en": "Multimedia & Entertainment",
+            "es": "Multimedia y Entretenimiento",
+            "fr": "Multimédia & Divertissement"
+          }
+        }
+      ]
+    }
+  }
+}
